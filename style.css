@@ -46,6 +46,8 @@
                 background-color: transparent;
                 border: 1px solid tomato;
                 cursor: pointer;
+                font-weight: 200;
+                
             }
             .btn-big:hover{
                 background-color: tomato;
@@ -58,6 +60,8 @@
 
             .btn-icon{
                 color: rgb(116, 23, 5);
+                font-size: 10px;
+
             }
 
             
@@ -67,8 +71,12 @@
                 width: 20px;
                 height: 20px;
                 background-color: transparent;
+                font-size: 16px;
                 border: none;
                 color: #403534;
+                text-decoration: none;
+                display: inline-block;
+                text-align: center;
             }
 
             .active{
