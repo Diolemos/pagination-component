@@ -49,6 +49,11 @@
             }
             .btn-big:hover{
                 background-color: tomato;
+
+            }
+
+            .btn-big:hover .btn-icon{
+                color: #fff;
             }
 
             .btn-icon{
